@@ -44,17 +44,16 @@ Platformer_2D/*.opendb
 Platformer_2D/*.VC.db
 
 # Unity3D generated meta files
-Platformer_2D/*.pidb.meta
-Platformer_2D/*.pdb.meta
-Platformer_2D/*.mdb.meta
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
 
-# Unity3D generated file on crash reports
-Platformer_2D/sysinfo.txt
+# Unity3D generated file on crash reportssysinfo.txt
 
 # Builds
-Platformer_2D/*.apk
-Platformer_2D/*.unitypackage
+*.apk
+*.unitypackage
 
 # Crashlytics generated file
-Platformer_2D/crashlytics-build.properties
+crashlytics-build.properties
 
